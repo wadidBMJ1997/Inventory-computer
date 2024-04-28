@@ -1,0 +1,1 @@
+application on inventory of the computer room at the University of Cartahena, as a project focused on an application of learning and experience in the Python language.
