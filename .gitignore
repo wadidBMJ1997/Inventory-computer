@@ -1,4 +1,15 @@
-/Universidad.db
+venv/
+
+# Ignorar archivos de migraciones de la base de datos
 */migrations/
-/settings.py
-/UniversidadUdc
+
+# Ignorar archivos estáticos generados
+/staticfiles/
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar archivos temporales
+*.swp
+*.swo
+*.sqlite3
